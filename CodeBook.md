@@ -120,3 +120,5 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 Transformations:
 ================
 The script run_analysis.R merges the test and training data, outputting a tidy data frame, and generating a tidy.txt file with the same data.
+
+The tidy data frame is the average of each variable for each activity and each subject of the merge of training and the test sets.
